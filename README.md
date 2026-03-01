@@ -18,4 +18,8 @@ Using the genetic algorithm, the A.I. “learns” to go through the maze using 
 * **Play it Yourself**: Press P to play the game yourself. For a human equipped with a mind adapted from years of evolution, this should be easy to you. But once the A.I. beats the game, you'll find that you're more prone to mistakes than it is. 
 * **Evolution Highlights**: Press G to replay evolution highlights.
 
+## learn
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@aishafathimamohammed/darwinai-simulating-natural-selection-in-javascript-e8c6dbcf2841)
+
+
 
